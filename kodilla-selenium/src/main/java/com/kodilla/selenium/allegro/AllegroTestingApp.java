@@ -25,4 +25,4 @@ public class AllegroTestingApp {
         inputField.submit();
     }
 }
-
+//
