@@ -1,0 +1,149 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1604068702115,3521,Gazeta.pl main page,200,OK,Gazeta.pl users 1-4,text,true,,670368,238,5,5,"https://www.gazeta.pl/0,0.html",171,0,55
+1604068702115,171,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-4,text,true,,457,115,5,5,http://www.gazeta.pl/,171,0,55
+1604068702286,3350,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-4,text,true,,669911,123,5,5,"https://www.gazeta.pl/0,0.html",436,0,298
+1604068701719,4538,Gazeta.pl main page,200,OK,Gazeta.pl users 1-2,text,true,,668522,238,5,5,"https://www.gazeta.pl/0,0.html",160,0,47
+1604068701719,162,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-2,text,true,,457,115,5,5,http://www.gazeta.pl/,160,0,47
+1604068701884,4373,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-2,text,true,,668065,123,5,5,"https://www.gazeta.pl/0,0.html",892,0,700
+1604068701586,4886,Gazeta.pl main page,200,OK,Gazeta.pl users 1-1,text,true,,668302,238,5,5,"https://www.gazeta.pl/0,0.html",292,0,179
+1604068701586,294,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-1,text,true,,457,115,5,5,http://www.gazeta.pl/,292,0,179
+1604068701884,4588,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-1,text,true,,667845,123,5,5,"https://www.gazeta.pl/0,0.html",881,0,700
+1604068701915,5069,Gazeta.pl main page,200,OK,Gazeta.pl users 1-3,text,true,,670577,238,5,5,"https://www.gazeta.pl/0,0.html",104,0,52
+1604068701915,104,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-3,text,true,,457,115,5,5,http://www.gazeta.pl/,104,0,52
+1604068702020,4964,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-3,text,true,,670120,123,5,5,"https://www.gazeta.pl/0,0.html",844,0,561
+1604068706984,121,Gazeta.pl main page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.gazeta.pl:80 failed to respond,Gazeta.pl users 1-3,text,false,ERROR: Test is failed,2093,0,5,5,http://www.gazeta.pl/,0,0,0
+1604068702314,4957,Gazeta.pl main page,200,OK,Gazeta.pl users 1-5,text,true,,670368,238,5,5,"https://www.gazeta.pl/0,0.html",92,0,56
+1604068702314,92,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-5,text,true,,457,115,5,5,http://www.gazeta.pl/,92,0,56
+1604068702407,4864,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-5,text,true,,669911,123,5,5,"https://www.gazeta.pl/0,0.html",664,0,279
+1604068705638,1982,Gazeta.pl main page,200,OK,Gazeta.pl users 1-4,text,true,,665313,238,5,5,"https://www.gazeta.pl/0,0.html",68,0,0
+1604068705638,68,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-4,text,true,,457,115,5,5,http://www.gazeta.pl/,68,0,0
+1604068705706,1914,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-4,text,true,,664856,123,5,5,"https://www.gazeta.pl/0,0.html",133,0,0
+1604068706258,2376,Gazeta.pl main page,200,OK,Gazeta.pl users 1-2,text,true,,670368,238,5,5,"https://www.gazeta.pl/0,0.html",149,0,0
+1604068706258,149,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-2,text,true,,457,115,5,5,http://www.gazeta.pl/,149,0,0
+1604068706407,2227,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-2,text,true,,669911,123,5,5,"https://www.gazeta.pl/0,0.html",194,0,0
+1604068706473,2644,Gazeta.pl main page,200,OK,Gazeta.pl users 1-1,text,true,,670577,238,5,5,"https://www.gazeta.pl/0,0.html",131,0,0
+1604068706473,131,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-1,text,true,,457,115,5,5,http://www.gazeta.pl/,131,0,0
+1604068706603,2514,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-1,text,true,,670120,123,5,5,"https://www.gazeta.pl/0,0.html",284,0,0
+1604068707270,2527,Gazeta.pl main page,200,OK,Gazeta.pl users 1-5,text,true,,670368,238,5,5,"https://www.gazeta.pl/0,0.html",64,0,0
+1604068707270,65,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-5,text,true,,457,115,5,5,http://www.gazeta.pl/,64,0,0
+1604068707335,2462,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-5,text,true,,669911,123,5,5,"https://www.gazeta.pl/0,0.html",244,0,0
+1604068707620,2414,Gazeta.pl main page,200,OK,Gazeta.pl users 1-4,text,true,,665313,238,5,5,"https://www.gazeta.pl/0,0.html",159,0,0
+1604068707620,159,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-4,text,true,,457,115,5,5,http://www.gazeta.pl/,159,0,0
+1604068707780,2254,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-4,text,true,,664856,123,5,5,"https://www.gazeta.pl/0,0.html",221,0,0
+1604068707108,3066,Gazeta.pl main page,200,OK,Gazeta.pl users 1-3,text,true,,670368,238,5,5,"https://www.gazeta.pl/0,0.html",217,0,135
+1604068707108,217,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-3,text,true,,457,115,5,5,http://www.gazeta.pl/,217,0,135
+1604068707326,2848,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-3,text,true,,669911,123,5,5,"https://www.gazeta.pl/0,0.html",199,0,0
+1604068708633,2355,Gazeta.pl main page,200,OK,Gazeta.pl users 1-2,text,true,,665313,238,5,5,"https://www.gazeta.pl/0,0.html",155,0,0
+1604068708633,156,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-2,text,true,,457,115,5,5,http://www.gazeta.pl/,155,0,0
+1604068708789,2199,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-2,text,true,,664856,123,5,5,"https://www.gazeta.pl/0,0.html",304,0,0
+1604068709118,2381,Gazeta.pl main page,200,OK,Gazeta.pl users 1-1,text,true,,668313,238,5,5,"https://www.gazeta.pl/0,0.html",157,0,0
+1604068709118,157,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-1,text,true,,457,115,5,5,http://www.gazeta.pl/,157,0,0
+1604068709275,2224,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-1,text,true,,667856,123,5,5,"https://www.gazeta.pl/0,0.html",250,0,0
+1604068710047,2140,Gazeta.pl main page,200,OK,Gazeta.pl users 1-4,text,true,,668313,238,5,5,"https://www.gazeta.pl/0,0.html",104,0,0
+1604068710047,104,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-4,text,true,,457,115,5,5,http://www.gazeta.pl/,104,0,0
+1604068710151,2036,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-4,text,true,,667856,123,5,5,"https://www.gazeta.pl/0,0.html",157,0,0
+1604068709798,2469,Gazeta.pl main page,200,OK,Gazeta.pl users 1-5,text,true,,668313,238,5,5,"https://www.gazeta.pl/0,0.html",152,0,0
+1604068709798,152,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-5,text,true,,457,115,5,5,http://www.gazeta.pl/,152,0,0
+1604068709950,2317,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-5,text,true,,667856,123,5,5,"https://www.gazeta.pl/0,0.html",171,0,0
+1604068710989,2251,Gazeta.pl main page,200,OK,Gazeta.pl users 1-2,text,true,,665313,238,5,5,"https://www.gazeta.pl/0,0.html",125,0,0
+1604068710989,125,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-2,text,true,,457,115,5,5,http://www.gazeta.pl/,125,0,0
+1604068711114,2126,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-2,text,true,,664856,123,5,5,"https://www.gazeta.pl/0,0.html",177,0,0
+1604068710175,3376,Gazeta.pl main page,200,OK,Gazeta.pl users 1-3,text,true,,665313,238,5,5,"https://www.gazeta.pl/0,0.html",137,0,0
+1604068710175,137,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-3,text,true,,457,115,5,5,http://www.gazeta.pl/,137,0,0
+1604068710312,3239,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-3,text,true,,664856,123,5,5,"https://www.gazeta.pl/0,0.html",274,0,0
+1604068711500,2508,Gazeta.pl main page,200,OK,Gazeta.pl users 1-1,text,true,,670368,238,5,5,"https://www.gazeta.pl/0,0.html",171,0,0
+1604068711500,172,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-1,text,true,,457,115,5,5,http://www.gazeta.pl/,171,0,0
+1604068711673,2335,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-1,text,true,,669911,123,5,5,"https://www.gazeta.pl/0,0.html",140,0,0
+1604068712189,2309,Gazeta.pl main page,200,OK,Gazeta.pl users 1-4,text,true,,668313,238,5,5,"https://www.gazeta.pl/0,0.html",116,0,0
+1604068712189,116,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-4,text,true,,457,115,5,5,http://www.gazeta.pl/,116,0,0
+1604068712305,2193,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-4,text,true,,667856,123,5,5,"https://www.gazeta.pl/0,0.html",128,0,0
+1604068712269,2469,Gazeta.pl main page,200,OK,Gazeta.pl users 1-5,text,true,,665313,238,5,5,"https://www.gazeta.pl/0,0.html",117,0,0
+1604068712269,117,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-5,text,true,,457,115,5,5,http://www.gazeta.pl/,117,0,0
+1604068712386,2352,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-5,text,true,,664856,123,5,5,"https://www.gazeta.pl/0,0.html",258,0,0
+1604068713242,1960,Gazeta.pl main page,200,OK,Gazeta.pl users 1-2,text,true,,665313,238,5,5,"https://www.gazeta.pl/0,0.html",83,0,0
+1604068713242,83,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-2,text,true,,457,115,5,5,http://www.gazeta.pl/,83,0,0
+1604068713325,1877,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-2,text,true,,664856,123,5,5,"https://www.gazeta.pl/0,0.html",173,0,0
+1604068713553,3020,Gazeta.pl main page,200,OK,Gazeta.pl users 1-3,text,true,,668313,238,5,5,"https://www.gazeta.pl/0,0.html",81,0,0
+1604068713553,81,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-3,text,true,,457,115,5,5,http://www.gazeta.pl/,81,0,0
+1604068713634,2939,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-3,text,true,,667856,123,5,5,"https://www.gazeta.pl/0,0.html",221,0,0
+1604068714009,2585,Gazeta.pl main page,200,OK,Gazeta.pl users 1-1,text,true,,665313,238,5,5,"https://www.gazeta.pl/0,0.html",130,0,0
+1604068714009,130,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-1,text,true,,457,115,5,5,http://www.gazeta.pl/,130,0,0
+1604068714139,2455,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-1,text,true,,664856,123,5,5,"https://www.gazeta.pl/0,0.html",219,0,0
+1604068714499,2565,Gazeta.pl main page,200,OK,Gazeta.pl users 1-4,text,true,,668313,238,5,5,"https://www.gazeta.pl/0,0.html",177,0,0
+1604068714499,177,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-4,text,true,,457,115,5,5,http://www.gazeta.pl/,177,0,0
+1604068714676,2388,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-4,text,true,,667856,123,5,5,"https://www.gazeta.pl/0,0.html",201,0,0
+1604068714739,2369,Gazeta.pl main page,200,OK,Gazeta.pl users 1-5,text,true,,665313,238,5,5,"https://www.gazeta.pl/0,0.html",68,0,0
+1604068714739,68,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-5,text,true,,457,115,5,5,http://www.gazeta.pl/,68,0,0
+1604068714807,2301,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-5,text,true,,664856,123,5,5,"https://www.gazeta.pl/0,0.html",201,0,0
+1604068715203,2402,Gazeta.pl main page,200,OK,Gazeta.pl users 1-2,text,true,,665313,238,5,5,"https://www.gazeta.pl/0,0.html",133,0,0
+1604068715203,133,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-2,text,true,,457,115,5,5,http://www.gazeta.pl/,133,0,0
+1604068715336,2269,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-2,text,true,,664856,123,5,5,"https://www.gazeta.pl/0,0.html",192,0,0
+1604068716595,2466,Gazeta.pl main page,200,OK,Gazeta.pl users 1-1,text,true,,665313,238,5,5,"https://www.gazeta.pl/0,0.html",135,0,0
+1604068716595,135,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-1,text,true,,457,115,5,5,http://www.gazeta.pl/,135,0,0
+1604068716730,2331,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-1,text,true,,664856,123,5,5,"https://www.gazeta.pl/0,0.html",275,0,0
+1604068717109,2404,Gazeta.pl main page,200,OK,Gazeta.pl users 1-5,text,true,,670368,238,5,5,"https://www.gazeta.pl/0,0.html",80,0,0
+1604068717109,80,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-5,text,true,,457,115,5,5,http://www.gazeta.pl/,80,0,0
+1604068717189,2324,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-5,text,true,,669911,123,5,5,"https://www.gazeta.pl/0,0.html",313,0,0
+1604068717065,2485,Gazeta.pl main page,200,OK,Gazeta.pl users 1-4,text,true,,665313,238,5,5,"https://www.gazeta.pl/0,0.html",76,0,0
+1604068717065,76,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-4,text,true,,457,115,5,5,http://www.gazeta.pl/,76,0,0
+1604068717142,2408,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-4,text,true,,664856,123,5,5,"https://www.gazeta.pl/0,0.html",170,0,0
+1604068716574,2996,Gazeta.pl main page,200,OK,Gazeta.pl users 1-3,text,true,,665313,238,5,5,"https://www.gazeta.pl/0,0.html",156,0,0
+1604068716574,156,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-3,text,true,,457,115,5,5,http://www.gazeta.pl/,156,0,0
+1604068716730,2840,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-3,text,true,,664856,123,5,5,"https://www.gazeta.pl/0,0.html",276,0,0
+1604068717606,2559,Gazeta.pl main page,200,OK,Gazeta.pl users 1-2,text,true,,668313,238,5,5,"https://www.gazeta.pl/0,0.html",143,0,0
+1604068717606,143,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-2,text,true,,457,115,5,5,http://www.gazeta.pl/,143,0,0
+1604068717750,2415,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-2,text,true,,667856,123,5,5,"https://www.gazeta.pl/0,0.html",197,0,0
+1604068719062,2419,Gazeta.pl main page,200,OK,Gazeta.pl users 1-1,text,true,,670368,238,5,5,"https://www.gazeta.pl/0,0.html",108,0,0
+1604068719062,108,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-1,text,true,,457,115,5,5,http://www.gazeta.pl/,108,0,0
+1604068719170,2311,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-1,text,true,,669911,123,5,5,"https://www.gazeta.pl/0,0.html",189,0,0
+1604068719514,2474,Gazeta.pl main page,200,OK,Gazeta.pl users 1-5,text,true,,668313,238,5,5,"https://www.gazeta.pl/0,0.html",98,0,0
+1604068719514,98,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-5,text,true,,457,115,5,5,http://www.gazeta.pl/,98,0,0
+1604068719612,2376,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-5,text,true,,667856,123,5,5,"https://www.gazeta.pl/0,0.html",165,0,0
+1604068719551,2499,Gazeta.pl main page,200,OK,Gazeta.pl users 1-4,text,true,,670368,238,5,5,"https://www.gazeta.pl/0,0.html",61,0,0
+1604068719551,61,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-4,text,true,,457,115,5,5,http://www.gazeta.pl/,61,0,0
+1604068719612,2438,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-4,text,true,,669911,123,5,5,"https://www.gazeta.pl/0,0.html",148,0,0
+1604068719570,2875,Gazeta.pl main page,200,OK,Gazeta.pl users 1-3,text,true,,670368,238,5,5,"https://www.gazeta.pl/0,0.html",94,0,0
+1604068719570,95,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-3,text,true,,457,115,5,5,http://www.gazeta.pl/,94,0,0
+1604068719665,2780,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-3,text,true,,669911,123,5,5,"https://www.gazeta.pl/0,0.html",155,0,0
+1604068720166,2662,Gazeta.pl main page,200,OK,Gazeta.pl users 1-2,text,true,,665313,238,5,5,"https://www.gazeta.pl/0,0.html",127,0,0
+1604068720166,127,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-2,text,true,,457,115,5,5,http://www.gazeta.pl/,127,0,0
+1604068720293,2535,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-2,text,true,,664856,123,5,5,"https://www.gazeta.pl/0,0.html",325,0,0
+1604068721482,2305,Gazeta.pl main page,200,OK,Gazeta.pl users 1-1,text,true,,668313,238,5,5,"https://www.gazeta.pl/0,0.html",138,0,0
+1604068721482,138,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-1,text,true,,457,115,5,5,http://www.gazeta.pl/,138,0,0
+1604068721619,2168,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-1,text,true,,667856,123,5,5,"https://www.gazeta.pl/0,0.html",191,0,0
+1604068721988,2344,Gazeta.pl main page,200,OK,Gazeta.pl users 1-5,text,true,,665313,238,5,5,"https://www.gazeta.pl/0,0.html",192,0,0
+1604068721988,192,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-5,text,true,,457,115,5,5,http://www.gazeta.pl/,192,0,0
+1604068722180,2152,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-5,text,true,,664856,123,5,5,"https://www.gazeta.pl/0,0.html",264,0,0
+1604068722050,2355,Gazeta.pl main page,200,OK,Gazeta.pl users 1-4,text,true,,670368,238,5,5,"https://www.gazeta.pl/0,0.html",129,0,0
+1604068722050,129,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-4,text,true,,457,115,5,5,http://www.gazeta.pl/,129,0,0
+1604068722179,2226,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-4,text,true,,669911,123,5,5,"https://www.gazeta.pl/0,0.html",238,0,0
+1604068722445,2327,Gazeta.pl main page,200,OK,Gazeta.pl users 1-3,text,true,,670577,238,5,5,"https://www.gazeta.pl/0,0.html",128,0,0
+1604068722445,128,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-3,text,true,,457,115,5,5,http://www.gazeta.pl/,128,0,0
+1604068722573,2199,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-3,text,true,,670120,123,5,5,"https://www.gazeta.pl/0,0.html",232,0,0
+1604068722827,2626,Gazeta.pl main page,200,OK,Gazeta.pl users 1-2,text,true,,665313,238,5,5,"https://www.gazeta.pl/0,0.html",156,0,0
+1604068722827,156,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-2,text,true,,457,115,5,5,http://www.gazeta.pl/,156,0,0
+1604068722983,2470,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-2,text,true,,664856,123,5,5,"https://www.gazeta.pl/0,0.html",290,0,0
+1604068723788,2402,Gazeta.pl main page,200,OK,Gazeta.pl users 1-1,text,true,,670577,238,5,5,"https://www.gazeta.pl/0,0.html",192,0,0
+1604068723788,192,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-1,text,true,,457,115,5,5,http://www.gazeta.pl/,192,0,0
+1604068723980,2210,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-1,text,true,,670120,123,5,5,"https://www.gazeta.pl/0,0.html",245,0,0
+1604068724332,2231,Gazeta.pl main page,200,OK,Gazeta.pl users 1-5,text,true,,665313,238,5,5,"https://www.gazeta.pl/0,0.html",142,0,0
+1604068724332,142,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-5,text,true,,457,115,5,5,http://www.gazeta.pl/,142,0,0
+1604068724474,2089,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-5,text,true,,664856,123,5,5,"https://www.gazeta.pl/0,0.html",145,0,0
+1604068724405,2376,Gazeta.pl main page,200,OK,Gazeta.pl users 1-4,text,true,,670367,238,5,5,"https://www.gazeta.pl/0,0.html",97,0,0
+1604068724405,98,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-4,text,true,,457,115,5,5,http://www.gazeta.pl/,97,0,0
+1604068724503,2278,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-4,text,true,,669910,123,5,5,"https://www.gazeta.pl/0,0.html",177,0,0
+1604068724773,2473,Gazeta.pl main page,200,OK,Gazeta.pl users 1-3,text,true,,665312,238,4,4,"https://www.gazeta.pl/0,0.html",177,0,0
+1604068724773,177,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-3,text,true,,457,115,4,4,http://www.gazeta.pl/,177,0,0
+1604068724950,2296,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-3,text,true,,664855,123,4,4,"https://www.gazeta.pl/0,0.html",210,0,0
+1604068725454,2287,Gazeta.pl main page,200,OK,Gazeta.pl users 1-2,text,true,,665313,238,4,4,"https://www.gazeta.pl/0,0.html",191,0,0
+1604068725454,191,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-2,text,true,,457,115,4,4,http://www.gazeta.pl/,191,0,0
+1604068725645,2096,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-2,text,true,,664856,123,4,4,"https://www.gazeta.pl/0,0.html",182,0,0
+1604068726191,2375,Gazeta.pl main page,200,OK,Gazeta.pl users 1-1,text,true,,670368,238,3,3,"https://www.gazeta.pl/0,0.html",214,0,0
+1604068726191,214,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-1,text,true,,457,115,3,3,http://www.gazeta.pl/,214,0,0
+1604068726405,2161,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-1,text,true,,669911,123,3,3,"https://www.gazeta.pl/0,0.html",211,0,0
+1604068726564,2139,Gazeta.pl main page,200,OK,Gazeta.pl users 1-5,text,true,,665312,238,2,2,"https://www.gazeta.pl/0,0.html",89,0,0
+1604068726564,89,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-5,text,true,,457,115,2,2,http://www.gazeta.pl/,89,0,0
+1604068726654,2049,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-5,text,true,,664855,123,2,2,"https://www.gazeta.pl/0,0.html",127,0,0
+1604068727248,1984,Gazeta.pl main page,200,OK,Gazeta.pl users 1-3,text,true,,670367,238,1,1,"https://www.gazeta.pl/0,0.html",65,0,0
+1604068727248,65,Gazeta.pl main page-0,301,Moved Permanently,Gazeta.pl users 1-3,text,true,,457,115,1,1,http://www.gazeta.pl/,65,0,0
+1604068727313,1919,Gazeta.pl main page-1,200,OK,Gazeta.pl users 1-3,text,true,,669910,123,1,1,"https://www.gazeta.pl/0,0.html",189,0,0
